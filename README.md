@@ -60,3 +60,9 @@ A life-saving app designed to connect individuals in distress with the nearest h
 
 3. **Integration**:  
    - Collaborates with local healthcare services to ensure quick response times.  
+
+## 🚀 Upcoming Feature  
+
+We are expanding the app to support not just health emergencies but also **fire rescue, police, and other critical emergency services**. With this feature, users will have access to a unified emergency response system, allowing them to connect with the nearest relevant authorities with just a single tap. 
+
+Whether it's a medical emergency, a fire incident, or a security concern, the app will ensure that help is on the way quickly and efficiently. Stay tuned for this all-in-one solution that prioritizes your safety in every crisis!
