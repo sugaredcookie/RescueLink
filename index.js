@@ -15,7 +15,7 @@ const MyServer = http.createServer((req, res) => {
                     res.end("<h1>Internal Server Error</h1>");
                 } else {
                     res.writeHead(200, { 'Content-Type': 'text/html' });
-                    res.end(data)
+                    res.end(data);
                 }
             });
 
